@@ -1,0 +1,5 @@
+org.wccsconnector.extensions.vaultseed.VaultSeedExtension
+org.wccsconnector.extensions.assets.AssetSeedExtension
+org.wccsconnector.extensions.datatransfer.AuthHeadersProvisionExtension
+org.wccsconnector.extensions.policy.PolicySeedExtension
+org.wccsconnector.extensions.contractdefinitions.ContractDefinitionSeedingExtension
