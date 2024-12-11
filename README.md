@@ -20,6 +20,6 @@ The connector has been created with an aim to be compatible with [GaiaX](https:/
 
 This repository contains a dataspace connector implementation created by utilizing [Eclipse EDC](https://github.com/eclipse-edc/Connector). 
 
-The created connector has the functionalities to act as dataspace gateway for accessing data from the Data Platform of Wireless Communications and Cybersecyrity -research group of Turku University of Applied Sciences.
+The created connector has the functionalities to act as dataspace gateway for accessing data from the Data Platform of Wireless Communications and Cybersecurity -research group of Turku University of Applied Sciences.
 
 This repository may benefit actors wishing to develop their own dataspace connector by providing an example of Eclipse EDC usage. 
